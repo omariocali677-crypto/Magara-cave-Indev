@@ -1,0 +1,13 @@
+Fizikli Mağara Oyunu - Öğretici
+
+Kontroller:
+- Yön tuşları: Oyuncuyu hareket ettirir
+- C: Karakteri küçült
+- X: Karakteri eski boyuna döndürür
+- Fare ile harita seçin
+- ESC: Oyundan çıkış
+
+Amaç:
+- Mağarayı keşfedin
+- Duvarlara çarpmamaya çalışın
+- Farklı haritaları deneyin
